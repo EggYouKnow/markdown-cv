@@ -30,11 +30,11 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 ### Journals
 (\* equally contribution)
 
-[6] Z. Zhou*, __D. Li__\*, Z. Zhao*, S. Shi*, J. Wu*, J. Li, J. Zhang, K. Gui, Y. Zhang, and Q. Ouyang, Dynamical Modelling of Viral Infection and Cooperative Immune Protection in COVID-19 Patients, PLOS Computational Biology 19, e1011383 (2023). [(website)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011383)
+[6] Z. Zhou\*, __D. Li__\*, Z. Zhao\*, S. Shi\*, J. Wu\*, J. Li, J. Zhang, K. Gui, Y. Zhang, and Q. Ouyang, Dynamical Modelling of Viral Infection and Cooperative Immune Protection in COVID-19 Patients, PLOS Computational Biology 19, e1011383 (2023). [(website)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011383)
 
-[5] Y. Sun*, __D. Li__*, C. Ni, Y. Ge, H. Qian, Q. Ouyang, and F. Li, ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells, Phys. Rev. Research 4, 043142 (2022). [(website)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043142)
+[5] Y. Sun\*, __D. Li__\*, C. Ni, Y. Ge, H. Qian, Q. Ouyang, and F. Li, ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells, Phys. Rev. Research 4, 043142 (2022). [(website)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043142)
 
-[4] L. Xu*, __L. Dianjie__*, Y. Xu, Z. Zonghao, Z. Shuang, Z. Jingpeng, H. Wuzhe, W. Fuqing, L. Fangting, and C. Guo-Qiang, Rapid Quantification of Polyhydroxyalkanoates Accumulated in Living Cells Based on Green Fluorescence Protein-Labeled Phasins: The qPHA Method, Biomacromolecules (2022). [(website)](https://pubs.acs.org/doi/abs/10.1021/acs.biomac.2c00624)
+[4] L. Xu\*, __L. Dianjie__\*, Y. Xu, Z. Zonghao, Z. Shuang, Z. Jingpeng, H. Wuzhe, W. Fuqing, L. Fangting, and C. Guo-Qiang, Rapid Quantification of Polyhydroxyalkanoates Accumulated in Living Cells Based on Green Fluorescence Protein-Labeled Phasins: The qPHA Method, Biomacromolecules (2022). [(website)](https://pubs.acs.org/doi/abs/10.1021/acs.biomac.2c00624)
 
 [3] Li, X.\*, Zhong, C.-Q.\*, Wu, R.\*, Xu, X., Yang, Z.-H., Cai, S., Wu, X., Chen, X., Yin, Z., He, Q., __Li, D__., Xu, F., Yan, Y., Qi, H., Xie, C., Shuai, J., Han, J.. RIP1-dependent linear and nonlinear recruitments of caspase-8 and RIP3 respectively to necrosome specify distinct cell death outcomes. Protein Cell 12, 858–876 (2021). [(website)](https://doi.org/10.1007/s13238-020-00810-x)
 
@@ -43,7 +43,7 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, Chinese Physics B 27, 024702 (2018). [(website)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta)
 
-__In preparation__
+### In Preparation
 - __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 - __Dianjie Li__, et al. The functions of ATP and hydrolysis free energy in biochemical switches: promoting and restraining.
 - De Zhao*, Teng Wang*, Jian Zhao*, __Dianjie Li__*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
