@@ -17,11 +17,11 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Education
 
-- `2018.09-2024.07` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China (Supervisor: Prof. Fangting Li)
+`2018.09-2024.07` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China (Supervisor: Prof. Fangting Li)
 
-- `2014.09-2018.06` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
+`2014.09-2018.06` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
 
-- `2011.09-2014.06` Xiamen Foreign Language School, Xiamen, Fujian, China
+`2011.09-2014.06` Xiamen Foreign Language School, Xiamen, Fujian, China
 
 
 ## Publications
