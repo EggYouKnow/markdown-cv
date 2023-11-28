@@ -1,37 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dianjie Li's CV
 ---
-# Isaac Newton
+# Dianjie Li
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="dianjieli@pku.edu.cn">dianjieli@pku.edu.cn</a>
+| <a href="">Personal page</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Quantitative biology, non-equlibrium biophysics, theoretical immunology, and system medicine.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018.09-2024.07` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China 
+(Supervisor: Fangting Li)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014.09-2018.06` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China 
+(Supervisors: Jianwei Shuai and Chenxu Wu)
 
 - Sizar
 
