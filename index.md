@@ -19,10 +19,10 @@ Quantitative biology, non-equlibrium biophysics, theoretical immunology, and sys
 ## Education
 
 `2018.09-2024.07` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China 
-(Supervisor: Fangting Li)
+                (Supervisor: Prof. Fangting Li)
 
 `2014.09-2018.06` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China 
-(Supervisors: Jianwei Shuai and Chenxu Wu)
+                (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
 
 - Sizar
 
